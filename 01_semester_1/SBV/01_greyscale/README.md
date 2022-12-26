@@ -20,4 +20,4 @@ To achieve this, we discussed three methods in class:
 **Luminosity**
   - Here, the values of the three color channels are weighted differently, with the color green being assigned the largest share. The basis for this is human perception (0.21R, 0.72G, 0.07B). The values of the color channels are multiplied by the proportions and the results are summed.
 
-In our implementation, we chose to implement the mean and brightness methods.
+In my implementation, I chose to implement the mean and brightness methods.
