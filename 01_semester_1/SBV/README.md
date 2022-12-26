@@ -10,4 +10,4 @@ To work on the different tasks we use [ImageJ](https://imagej.nih.gov/ij/index.h
 
 ## Usage
 
-If you want to use the implementation yourself make sure to also download [ImageJUtility.java](/00_dependencies/ImageJUtility.java) located in `00_dependencies`. Inside ImageJ navigate to `Plugins > Install...` and select the .java files in your download location. Now you should find the plugin listed in `Plugins`.
+If you want to use the implementation yourself make sure to also download [ImageJUtility.java](../00_dependencies/ImageJUtility.java) located in `00_dependencies`. Inside ImageJ navigate to `Plugins > Install...` and select the .java files in your download location. Now you should find the plugin listed in `Plugins`.
