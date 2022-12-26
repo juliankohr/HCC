@@ -6,7 +6,7 @@ Professor: Dipl.-Ing.(FH) Dr. Gerald Adam Zwettler, MSc
 
 ## Content
 
-To work on the different tasks we use [ImageJ](https://imagej.nih.gov/ij/index.html) in this course. The implementation of different filters is mainly done as a custom plugin, which is then applied to different images.
+To work on the different tasks we use [ImageJ](https://imagej.nih.gov/ij/index.html) in this class. The implementation of different filters is mainly done as a custom plugin, which is then applied to different images.
 
 ## Usage
 
