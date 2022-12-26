@@ -1,4 +1,4 @@
-# HCC – Human Centered Computing
+# HCC - Human Centered Computing
 
 This repository contains assignments and shareworthy code for my master's studies in [Human Centered Computing](https://www.fh-ooe.at/campus-hagenberg/studiengaenge/master/human-centered-computing/) at [University of Applied Sciences Upper Austria](https://www.fh-ooe.at) in Hagenberg.
 
